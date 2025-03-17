@@ -32,4 +32,37 @@ A sleek 3D showcase of the MacBook Pro using **React Three Fiber** and **drei** 
    git clone https://github.com/yourusername/macbook-showcase.git
    cd macbook-showcase
    ```
-2. **Install dependencies
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+3. **Run the development server**
+   ```bash
+   npm run dev
+   ```
+4. **Open in browser**
+   ```
+   http://localhost:3000
+   ```
+
+## 📸 Preview
+![Project Preview](https://your-image-url.com/preview.jpg)
+
+## ✨ Usage
+- **Click and drag** to rotate the 3D model
+- **Scroll** to interact with the screen animation
+- **Hover over the navbar** to explore different sections
+
+## 🌟 Contributing
+Pull requests are welcome! Feel free to **fork** the repo, create a new branch, and submit your changes.
+
+## 👨‍💻 Developer
+**Umer Aslam** – Creator & Developer of this project.
+
+## 📜 License
+This project is licensed under the MIT License. See `LICENSE` for details.
+
+---
+
+Enjoy coding! 🚀🎨
+
